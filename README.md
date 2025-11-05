@@ -29,3 +29,13 @@ Estas actividades permiten reforzar el aprendizaje sobre:
 ![alt text](<Captura de pantalla 2025-11-05 160618.png>)
 
 ![alt text](<Captura de pantalla 2025-11-05 160627.png>)
+
+# componentes creados
+- Cabecera 
+![alt text](<Captura de pantalla 2025-11-05 163120.png>)
+- Perfil 
+![alt text](<Captura de pantalla 2025-11-05 163109.png>)
+- Educación
+![alt text](<Captura de pantalla 2025-11-05 163116.png>)
+- Experiencia
+![alt text](<Captura de pantalla 2025-11-05 163126.png>)

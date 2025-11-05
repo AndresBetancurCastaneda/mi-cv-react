@@ -14,7 +14,7 @@ export default function About() {
       </p>
       <ul>
         <li>React</li>
-        <li>JavaScript</li>
+        <li>MongoDB</li>
         <li>HTML & CSS</li>
         <li>Git y GitHub</li>
       </ul>

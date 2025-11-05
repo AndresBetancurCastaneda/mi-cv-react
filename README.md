@@ -13,5 +13,19 @@ Estas actividades permiten reforzar el aprendizaje sobre:
 - Uso de Git y GitHub para el control de versiones.
 
 # Capturas del navegador 
+
 ![alt text](<Captura de pantalla 2025-11-05 160716.png>)
+
 ![alt text](<Captura de pantalla 2025-11-05 160724.png>)
+
+# captura commits realizados 
+
+![alt text](<Captura de pantalla 2025-11-05 160432.png>)
+
+![alt text](<Captura de pantalla 2025-11-05 160541.png>)
+
+![alt text](<Captura de pantalla 2025-11-05 160602.png>)
+
+![alt text](<Captura de pantalla 2025-11-05 160618.png>)
+
+![alt text](<Captura de pantalla 2025-11-05 160627.png>)

@@ -2,7 +2,7 @@ import React from 'react'
 import Header from './components/Header'
 import About from './components/About'
 import Skills from './components/Skills'
-import Contact from './components/Contact'
+import Educacion from './components/Educacion'
 
 export default function App() {
   return (
@@ -10,7 +10,7 @@ export default function App() {
       <Header />
       <About />
       <Skills />
-      <Contact />
+      <Educacion />
     </div>
   )
 }

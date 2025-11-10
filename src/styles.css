@@ -110,3 +110,47 @@ header li {
     font-size: 1.2rem;
   }
 }
+.experiencia-section {
+  background-color: #e8f0fe; /* azul claro suave */
+  min-height: 100vh;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.experiencia-card {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 800px;
+  padding: 40px;
+  margin: 20px;
+}
+
+.experiencia-titulo {
+  text-align: center;
+  color: #1e40af; /* azul oscuro */
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: 2px solid #93c5fd;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+
+.experiencia-lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.experiencia-item {
+  border-bottom: 1px solid #ddd;
+  padding: 12px 0;
+}
+
+.experiencia-item h3 {
+  color: #111827;
+  font-size: 1
+}

@@ -39,3 +39,8 @@ Estas actividades permiten reforzar el aprendizaje sobre:
 ![alt text](<Captura de pantalla 2025-11-05 163116.png>)
 - Experiencia
 ![alt text](<Captura de pantalla 2025-11-05 163126.png>)
+
+# capturas del navegador con educacion y experiencias actualizado 
+CV dinámico en React que muestra experiencia, educación y tecnologías mediante renderizado condicional.
+![alt text](<Captura de pantalla 2025-11-10 080027.png>)
+![alt text](<Captura de pantalla 2025-11-10 080046.png>)

@@ -17,4 +17,5 @@ export const experiencias = [
 export const estudios = [
   { titulo: "Tecnólogo en Sistemas", centro: "SENA", año: "2021" },
   { titulo: "Taller React", centro: "Platzi", año: "2024" }
+  
 ];

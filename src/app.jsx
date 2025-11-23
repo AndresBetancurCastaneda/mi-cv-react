@@ -1,18 +1,28 @@
-import React from 'react'
-import Header from './components/Header'
-import About from './components/About'
-import Skills from './components/Skills'
-import Educacion from './components/Educacion'
-import StackTecnologias from './components/StackTecnologias'
+import CabeceraCV from "./components/CabeceraCV";
+import Perfil from "./components/Perfil";
+import Experiencia from "./components/Experiencia";
+import Educacion from "./components/Educacion";
 
-export default function App() {
+import { datosPersonales, perfil, experiencias, estudios } from "./data";
+
+
+function App() {
   return (
-    <div style={{ padding: '30px', fontFamily: 'Arial' }}>
-      <Header />
-      <About />
-      <Skills />
-      <Educacion />
-      <StackTecnologias />
-    </div>
-  )
+    <>
+      <CabeceraCV
+        nombre={datosPersonales.nombre}
+        cargo={datosPersonales.cargo}
+        ciudad={datosPersonales.ciudad}
+        contacto={datosPersonales.contacto}
+      />
+
+      <Perfil resumen={perfil.resumen} />
+
+      <Experiencia lista={experiencias} />
+
+      <Educacion estudios={estudios} />
+    </>
+  );
 }
+
+export default App;

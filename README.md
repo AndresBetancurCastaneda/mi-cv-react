@@ -44,3 +44,24 @@ Estas actividades permiten reforzar el aprendizaje sobre:
 CV dinámico en React que muestra experiencia, educación y tecnologías mediante renderizado condicional.
 ![alt text](<Captura de pantalla 2025-11-10 080027.png>)
 ![alt text](<Captura de pantalla 2025-11-10 080046.png>)
+
+# Props, Mi Proyecto de CV
+
+En mi prioyecto las props se usan para enviar la información del currículum desde el archivo principal (App.jsx) hacia los componentes que muestran cada parte del CV.
+Los datos como el nombre, el perfil, la experiencia y los estudios están guardados en un archivo aparte, y se mandan como props para que cada componente los muestre.
+
+Por ejemplo:
+
+El componente de la cabecera recibe los datos personales.
+
+El componente del perfil recibe la descripción profesional.
+
+El componente de experiencia recibe la lista de trabajos.
+
+El componente de educación recibe la lista de estudios.
+
+Cada componente usa esa información para mostrarla sin tener texto fijo por dentro.
+Gracias a esto, mi proyecto es más ordenado, los componentes se vuelven reutilizables, y puedo cambiar los datos del CV sin tener que modificar los componentes, solo actualizando el archivo de datos.
+
+En pocas palabras:
+Las props permiten que mi CV en React sea dinámico, limpio y fácil de mantener, porque cada parte recibe exactamente la información que necesita para mostrarse.

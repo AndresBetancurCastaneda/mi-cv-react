@@ -65,3 +65,15 @@ Gracias a esto, mi proyecto es más ordenado, los componentes se vuelven reutili
 
 En pocas palabras:
 Las props permiten que mi CV en React sea dinámico, limpio y fácil de mantener, porque cada parte recibe exactamente la información que necesita para mostrarse.
+
+# Interfaz Y COMMITS punto 7
+![alt text](<Captura de pantalla 2025-11-23 163613.png>)
+![alt text](image.png)
+![alt text](image-1.png)
+
+# Punto 8, commits y caps de interfaz
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+
+

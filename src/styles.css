@@ -242,3 +242,112 @@ header li {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
+/* Formulario de agregar tecnología */
+.form-tec {
+    margin: 20px auto;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.input-tec {
+    padding: 10px;
+    border: 1px solid #b1adad;
+    border-radius: 6px;
+    width: 220px;
+    font-size: 15px;
+}
+
+.btn-tec {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.btn-tec:hover {
+    background-color: #005ec4;
+}
+
+/* Lista de habilidades */
+.habilidades-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px auto;
+    width: 60%;
+    text-align: left;
+}
+
+/* Item de habilidad */
+.habilidad-item {
+    background: #f5f3f3;
+    margin: 6px 0;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: 0.3s ease;
+}
+
+/* Animación al pasar el mouse */
+.habilidad-item:hover {
+    background: #d4d4d4;
+}
+
+/* Contenedor del toggle */
+.toggle-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
+/* Botón Toggle */
+.toggle-btn {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    font-size: 16px;
+}
+
+.toggle-btn:hover {
+    background-color: #45a049;
+}
+
+/* Área donde aparece la lista */
+.toggle-content {
+    margin-top: 15px;
+    padding: 10px;
+    background: #c8ddd9;
+    border-radius: 8px;
+}
+/* Contenedor del stack de tecnologías */
+.stack-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px auto;
+    max-width: 600px;
+    justify-content: center;
+}
+
+/* Cada tecnología */
+.stack-item {
+    background: #14f5d3;
+    color: rgb(30, 26, 26);
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+/* Hover bonito */
+.stack-item:hover {
+    background: #dcebdd;
+    cursor: pointer;
+}

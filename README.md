@@ -74,6 +74,8 @@ Las props permiten que mi CV en React sea dinámico, limpio y fácil de mantener
 # Punto 8, commits y caps de interfaz
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 
 

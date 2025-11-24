@@ -6,7 +6,7 @@ export const datosPersonales = {
 };
 
 export const perfil = {
-  resumen: "Desarrollador con experiencia en React, Node, HTML, Css y JavaScript."
+  resumen: "Desarrollador con experiencia en React, Node, HTML, CSS y JavaScript."
 };
 
 export const experiencias = [
@@ -17,5 +17,21 @@ export const experiencias = [
 export const estudios = [
   { titulo: "Tecnólogo en Sistemas", centro: "SENA", año: "2021" },
   { titulo: "Taller React", centro: "Platzi", año: "2024" }
-  
 ];
+
+export const habilidades = [
+  "React",
+  "JavaScript",
+  "HTML",
+  "CSS",
+  "Git",
+  "Node.js"
+];
+export const tecnologias = [
+  "JavaScript",
+  "React",
+  "HTML",
+  "CSS",
+  "Node.js"
+];
+

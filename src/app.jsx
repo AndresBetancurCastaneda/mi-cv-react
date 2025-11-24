@@ -2,6 +2,7 @@ import CabeceraCV from "./components/CabeceraCV";
 import Perfil from "./components/Perfil";
 import Experiencia from "./components/Experiencia";
 import Educacion from "./components/Educacion";
+import StackTecnologias from "./components/StackTecnologias";
 
 import { datosPersonales, perfil, experiencias, estudios } from "./data";
 
@@ -21,6 +22,7 @@ function App() {
       <Experiencia lista={experiencias} />
 
       <Educacion estudios={estudios} />
+      <StackTecnologias />
     </>
   );
 }
